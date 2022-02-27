@@ -1,0 +1,19 @@
+██████  ███████ ██████  ██    ██  ██████
+██   ██ ██      ██   ██ ██    ██ ██
+██   ██ █████   ██████  ██    ██ ██   ███
+██   ██ ██      ██   ██ ██    ██ ██    ██
+██████  ███████ ██████   ██████   ██████
+
+Core of the 2022 annual program of servus.at is AMRO, 
+Art Meets Radical Openness, the biennial festival for art, 
+hacktivism and open cultures, organized since 2008 by servus.at 
+in cooperation with the Linz University of Art, Department of 
+Time-Based Media.
+
+After the 2020 edition, which was realized as an open source 
+online event for well-known reasons, the 2022 goal is to plan 
+the gathering again as an on-site event, enhanced by a system 
+of hybrid interactions. As usual, the four days of the event 
+will include: a discursive program with keynotes, panels and 
+lectures; a hands-on track with workshops and showcases; a 
+nightline with live coding, sound art and streaming.

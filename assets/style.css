@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+
+	scroll-behavior: smooth;
+	font-family: monospace;
+	color: white;
+}
+
+body {
+	margin-left: 5%;
+	background: black;
+	max-width: 500px;
+	margin-bottom: 5%;
+}
+
+h2 {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+h3 {
+	font-size: 1.2em;
+	font-weight: bolder;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+p {
+	font-size: 1.2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.preformated {
+	white-space: pre;
+}
+
+.amro-title {
+	position: fixed;
+	right: 5%;
+	bottom: 5%;
+}
