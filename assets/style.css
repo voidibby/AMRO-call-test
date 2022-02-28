@@ -10,35 +10,45 @@
 
 body {
 	margin-left: 5%;
-	background: black;
-	max-width: 500px;
-	margin-bottom: 5%;
+	background: #ff0000;
+	margin-bottom: 15%;
+	width: 84vw;
+	text-align: justify;
+	font-size: 24px;
 }
 
 h2 {
-	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-top: 1.2em;
+	margin-bottom: 1.2em;
 }
 
-h3 {
-	font-size: 1.2em;
-	font-weight: bolder;
+h5 {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 }
 
 p {
-	font-size: 1.2em;
+	/*font-size: 1.2em;*/
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
-.preformated {
-	white-space: pre;
+pre {
+	font-size: 2.45vw;
+	color: #ffff00;
+}
+
+pre h1 {
+	font-size: 4.9vw;
+	color: #ffff00;
+	line-height: 1em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
 }
 
 .amro-title {
 	position: fixed;
 	right: 5%;
 	bottom: 5%;
+	font-size: 1vw;
 }
