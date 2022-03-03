@@ -1,9 +1,15 @@
 * {
 	color: #ffffff;
 }
+
+::selection {
+	background: #ff0;
+	color: black;
+}
+
 body {
 	width: 75vw;
-	background: #ff0000;
+	background: #000000;
 	margin-left: 5%;
 	margin-bottom: 15%;
 	font-size: 24px;
@@ -48,12 +54,16 @@ pre {
 	line-height: 1.2em;
 }
 
+.highlighted {
+	background: #ff0;
+	color: #000000;
+}
+
 .logo {
 	position: fixed;
 	right: 2%;
 	bottom: 2%;
 	font-size: 1vw;
-	background-color: #ff0000;
 }
 
 @media screen and (max-width: 900px) {
